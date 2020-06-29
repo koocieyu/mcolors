@@ -1,0 +1,24 @@
+{
+  "name": "mcolors",
+  "version": "1.0.0",
+  "description": "A small package to help identify material design colors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koocieyu/mcolors.git"
+  },
+  "keywords": [
+    "material",
+    "design",
+    "colors"
+  ],
+  "author": "koocieyu",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/koocieyu/mcolors/issues"
+  },
+  "homepage": "https://github.com/koocieyu/mcolors#readme"
+}

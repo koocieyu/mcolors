@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "outDir": "src",
+        "target": "ESNext",
+        "module": "CommonJS",
+        "declaration": true,
+        "declarationMap": true,
+        "sourceMap": true,
+        "strict": true,
+        "resolveJsonModule": true,
+        "esModuleInterop": true
+    },
+    "include": [
+        "dev"
+    ],
+}
